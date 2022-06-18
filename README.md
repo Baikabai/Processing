@@ -1,5 +1,5 @@
 # Processing
-# Suzuki-Ibaraki_University
+# Suzuki Lab
 
 For all of the students in the Suzuki_lab in Ibaraki University.
 
